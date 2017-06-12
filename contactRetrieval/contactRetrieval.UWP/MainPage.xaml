@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="contactRetrieval.UWP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:contactRetrieval.UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox x:Name="targetText" HorizontalAlignment="Left" Margin="86,420,0,0" TextWrapping="Wrap" Text="email_address" VerticalAlignment="Top" RenderTransformOrigin="0.551,6.649" Height="64" Width="179"/>
+        <Button x:Name="send_Button" Content="Mail Contacts" HorizontalAlignment="Left" Margin="86,165,0,0" VerticalAlignment="Top" Height="37" Width="179" Click="Button_Click_1"/>
+
+    </Grid>
+</Page>

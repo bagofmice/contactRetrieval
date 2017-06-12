@@ -1,0 +1,17 @@
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\bin\Debug\contactRetrieval.Android.dll
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\bin\Debug\contactRetrieval.Android.pdb
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\bin\Debug\contactRetrieval.Android.apk
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\bin\Debug\contactRetrieval.Android-Signed.apk
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\obj\Debug\contactRetrieval.Android.csprojResolveAssemblyReference.cache
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\obj\Debug\contactRetrieval.Android.dll
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\obj\Debug\contactRetrieval.Android.pdb
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\obj\Debug\android\bin\contactRetrieval.Android.apk
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\obj\Debug\res\layout\main.xml
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\obj\Debug\res\values\strings.xml
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\obj\Debug\res\drawable-mdpi\icon.png
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\obj\Debug\R.cs.flag
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.Android\obj\Debug\uploadflags.txt

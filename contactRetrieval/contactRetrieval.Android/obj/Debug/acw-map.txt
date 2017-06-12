@@ -1,0 +1,4 @@
+contactRetrieval.Droid.MainActivity, contactRetrieval.Android;md5d110e286c8f662f9bd1bde8f028c710f.MainActivity
+contactRetrieval.Droid.MainActivity, contactRetrieval.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d110e286c8f662f9bd1bde8f028c710f.MainActivity
+contactRetrieval.Droid.MainActivity;md5d110e286c8f662f9bd1bde8f028c710f.MainActivity
+contactretrieval.droid.MainActivity;md5d110e286c8f662f9bd1bde8f028c710f.MainActivity

@@ -1,0 +1,1 @@
+F:\documents\contactretrieval\contactRetrieval\contactRetrieval\contactRetrieval.UWP\contactRetrieval.UWP.csproj;x86
